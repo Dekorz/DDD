@@ -1,0 +1,15 @@
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\bin\Debug\net6.0\DDD.exe
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\bin\Debug\net6.0\DDD.deps.json
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\bin\Debug\net6.0\DDD.runtimeconfig.json
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\bin\Debug\net6.0\DDD.dll
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\bin\Debug\net6.0\DDD.pdb
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\obj\Debug\net6.0\DDD.csproj.AssemblyReference.cache
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\obj\Debug\net6.0\DDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\obj\Debug\net6.0\DDD.AssemblyInfoInputs.cache
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\obj\Debug\net6.0\DDD.AssemblyInfo.cs
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\obj\Debug\net6.0\DDD.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\obj\Debug\net6.0\DDD.dll
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\obj\Debug\net6.0\refint\DDD.dll
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\obj\Debug\net6.0\DDD.pdb
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\obj\Debug\net6.0\DDD.genruntimeconfig.cache
+C:\Users\Ilya\Desktop\7_Semestr\DDD\DDD\obj\Debug\net6.0\ref\DDD.dll
